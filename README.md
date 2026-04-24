@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AI**
 
-- 📫 How to reach me nnnnnnnn. **adithyadissanayakaa@gmail.com**
+- 📫 How to reach me **adithyadissanayakaa@gmail.com**
   
 - ⚡ Fun fact **Call me as Adhh**
 
