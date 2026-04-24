@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adithyadissanayakaa@gmail.com**
   
-- ⚡ Fun fact **Call me as Adhh**
+- ⚡ Fun fact. **Call me as Adhh**
 
 </td>
 <td width="50%" align="center">
