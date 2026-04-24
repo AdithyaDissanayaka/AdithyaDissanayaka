@@ -32,7 +32,15 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png" alt="" height="55" width="55" /></a> <img width="1" /> <a href="https://linkedin.com/in/adithya-dissanayake-720b853b1" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="adithya-dissanayake-720b853b1" height="50" width="50" /></a> <img width="1" /> <a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="50" width="50" /></a>
+    <a href="https://www.youtube.com" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" height="50" width="50" style="vertical-align:middle; margin: 0 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/adithya-dissanayake-720b853b1" target="blank">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" style="vertical-align:middle; margin: 0 5px;" />
+    </a>
+    <a href="https://stackoverflow.com" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="50" width="50" style="vertical-align:middle; margin: 0 5px;" />
+    </a>
 </p>
 
 ---
